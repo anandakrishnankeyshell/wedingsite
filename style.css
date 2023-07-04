@@ -57,6 +57,7 @@ height: 100vh;
     height: 100%;
     animation: animate 16s ease-in-out infinite;
     background-size:contain;
+    
 }
 @keyframes animate {
     0%,100%{
